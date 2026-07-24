@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sahaX01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sahaX01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
