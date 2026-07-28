@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
         if (lists.length == 0)
             return null;
@@ -18,7 +18,7 @@ class Solution {
         for (int i = 0; i < lists.length; i++) {
             ListNode curr = lists[i];
             while (curr != null) {
-                pq.add(curr);
+                pq.add(curr.val);
                 curr = curr.next;
             }
         }
@@ -26,10 +26,7 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode curr = dummy;
         while (!pq.isEmpty()) {
-            ListNode node = pq.poll();
-            ListNode next = node.next; // save (not actually needed in your approach)
-            node.next = null; // disconnect from original list
-
+            ListNode node = new ListNode(pq.poll());
             curr.next = node;
             curr = curr.next;
         }
