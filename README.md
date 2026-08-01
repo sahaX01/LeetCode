@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahaX01/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahaX01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahaX01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
