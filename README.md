@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahaX01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
