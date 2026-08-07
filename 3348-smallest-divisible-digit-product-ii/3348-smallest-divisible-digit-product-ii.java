@@ -1,85 +1,171 @@
+import java.util.*;
+
 class Solution {
-    
-    String freeSlotFiller(long required, long len){
+
+    // Creates the smallest possible number of length 'len'
+    // whose digit product contains the required factor
+    String freeSlotFiller(long required, long len) {
+
+        // Stores generated digits
         StringBuilder sb = new StringBuilder();
-        
-        for(int digit = 9; digit>=2; digit--){
-          while(required % digit == 0){
-            sb.append((char)(digit+'0'));
-            required /= digit;
-          }
+
+        // Try digits from 9 to 2 because larger digits
+        // contain more prime factors
+        for (int digit = 9; digit >= 2; digit--) {
+
+            // Keep adding this digit while it divides required
+            while (required % digit == 0) {
+
+                // Convert integer digit into character and add
+                sb.append((char) (digit + '0'));
+
+                // Remove this digit contribution from required
+                required /= digit;
+            }
         }
-        
-        while(sb.length() < len){
+
+        // Fill remaining positions with 1
+        // because 1 does not affect product
+        while (sb.length() < len) {
+
             sb.append('1');
         }
 
+        // Reverse because we added bigger digits first
+        // to get smallest possible arrangement
         return sb.reverse().toString();
     }
-    long gcd(long a,long b){
 
-        while(b!=0){
+    // Finds greatest common divisor using Euclidean algorithm
+    long gcd(long a, long b) {
 
-            long temp=a%b;
-            a=b;
-            b=temp;
+        // Continue until remainder becomes zero
+        while (b != 0) {
+
+            // Store remainder
+            long temp = a % b;
+
+            // Move b into a
+            a = b;
+
+            // Move remainder into b
+            b = temp;
         }
 
+        // a contains gcd
         return a;
     }
+
     public String smallestNumber(String num, long t) {
+
+        // Length of given number
         int n = num.length();
 
+        // Copy t because we will modify it
         long temp = t;
-        int primeFactors[] = {2, 3, 5, 7};
-        for(int primeFact : primeFactors){
-            while(temp % primeFact == 0){
+
+        // Only these prime factors can be created by digits
+        int primeFactors[] = { 2, 3, 5, 7 };
+
+        // Remove all possible factors 2,3,5,7 from t
+        for (int primeFact : primeFactors) {
+
+            // Divide while this prime factor exists
+            while (temp % primeFact == 0) {
+
                 temp /= primeFact;
             }
         }
 
-        if(temp != 1){
+        // If any other prime factor remains,
+        // no digit product can satisfy it
+        if (temp != 1) {
+
             return "-1";
         }
 
-        // Precompute remainingFactor[i] = if we take i digits of num in my result, what
-        // factor remaining for t
-
+        // remainingFactor[i] stores:
+        // after taking first i digits,
+        // what factor is still needed
         long[] remainingFactor = new long[n + 1];
+
+        // Initially every position needs complete t
         Arrays.fill(remainingFactor, t);
 
-        for(int i=0; i<n; i++){
+        // Calculate remaining factors for every prefix
+        for (int i = 0; i < n; i++) {
+
+            // Convert character digit into integer
             int digit = num.charAt(i) - '0';
-            if(digit == 0) break;
-            remainingFactor[i+1] = remainingFactor[i] / gcd(remainingFactor[i], (long) digit);
+
+            // If zero appears, prefix cannot be continued
+            if (digit == 0)
+                break;
+
+            // Remove common factors of current digit
+            // from remaining required factor
+            remainingFactor[i + 1] = remainingFactor[i] /
+                    gcd(remainingFactor[i], (long) digit);
         }
 
-        if(remainingFactor[n] == 1){
+        // If original number already satisfies condition
+        // return it
+        if (remainingFactor[n] == 1) {
+
             return num;
         }
 
+        // Find position of first zero
         int zeroPos = num.indexOf('0');
-        int zeroIdx = n-1;
 
-        if(zeroPos != -1){
+        // Assume last digit needs modification
+        int zeroIdx = n - 1;
+
+        // If zero exists, we cannot keep digits after it
+        if (zeroPos != -1) {
+
             zeroIdx = zeroPos;
         }
-        
-        for(int i=zeroIdx; i>=0; i--){
+
+        // Try modifying digits from right to left
+        for (int i = zeroIdx; i >= 0; i--) {
+
+            // Required factor after taking prefix before i
             long required = remainingFactor[i];
+
+            // Number of positions available after current digit
             long freeSlots = n - 1 - i;
 
-            for(int digit = (num.charAt(i) - '0')+1; digit<=9; digit++){
+            // Try every larger digit
+            // because answer must be >= num
+            for (int digit = num.charAt(i) - '0' + 1; digit <= 9; digit++) {
 
-                long furtherRequired = required / gcd(required, digit);
-                String requiredNumber = freeSlotFiller( furtherRequired, freeSlots);
+                // Remove factor contribution of chosen digit
+                long furtherRequired = required /
+                        gcd(required, digit);
 
-                if(requiredNumber.length() ==  freeSlots){
-                    return num.substring(0, i) + (char) (digit+'0')+ requiredNumber;
+                // Build the smallest suffix
+                // using remaining positions
+                String requiredNumber = freeSlotFiller(
+                        furtherRequired,
+                        freeSlots);
+
+                // If suffix length matches available slots,
+                // we found valid answer
+                if (requiredNumber.length() == freeSlots) {
+
+                    // Keep prefix same
+                    // Increase current digit
+                    // Add smallest suffix
+                    return num.substring(0, i)
+                            + (char) (digit + '0')
+                            + requiredNumber;
                 }
             }
-
         }
-         return freeSlotFiller(t, n+1);
+
+        // If no answer with same length,
+        // try a number with length n+1
+        return freeSlotFiller(t, n + 1);
     }
 }
