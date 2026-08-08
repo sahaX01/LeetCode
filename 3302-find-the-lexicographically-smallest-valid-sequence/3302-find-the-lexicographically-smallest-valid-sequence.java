@@ -36,12 +36,6 @@ class Solution {
           i++;
         }
 
-        for(int num:ans){
-            if(num == -1){
-              return new int[0];
-            }
-        }
-
-        return ans;
+        return j == m ? ans : new int[0];
     }
 }
