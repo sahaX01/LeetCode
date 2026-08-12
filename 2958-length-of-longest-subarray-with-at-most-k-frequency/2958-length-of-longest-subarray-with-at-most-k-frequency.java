@@ -6,13 +6,17 @@ class Solution {
         
         int left = 0;
         for(int right = 0; right<nums.length; right++){
-
+            
+            // Increase frequency of nums[right]
             map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
+
+            // If frequency exceeds k, shrink left side window
             while(map.get(nums[right])>k){
             map.put(nums[left], map.get(nums[left])-1);
             left++;
         }
-
+        
+        // Current window length
         ans = Math.max(ans, right + 1 - left); 
         }
 
