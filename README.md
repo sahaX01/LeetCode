@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sahaX01/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0692-top-k-frequent-words](https://github.com/sahaX01/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/sahaX01/LeetCode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/sahaX01/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahaX01/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
