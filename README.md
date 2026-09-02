@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sahaX01/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/sahaX01/LeetCode/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahaX01/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahaX01/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahaX01/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
