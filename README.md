@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahaX01/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sahaX01/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1872-stone-game-viii](https://github.com/sahaX01/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahaX01/LeetCode/tree/master/2029-stone-game-ix) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahaX01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahaX01/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahaX01/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
