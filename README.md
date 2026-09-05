@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahaX01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/sahaX01/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/sahaX01/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sahaX01/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sahaX01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/sahaX01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sahaX01/LeetCode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/sahaX01/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/sahaX01/LeetCode/tree/master/3903-smallest-stable-index-i) |
