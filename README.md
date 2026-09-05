@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sahaX01/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahaX01/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
