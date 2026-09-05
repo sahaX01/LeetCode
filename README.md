@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/sahaX01/LeetCode/tree/master/1872-stone-game-viii) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
