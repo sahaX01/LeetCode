@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sahaX01/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/sahaX01/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
