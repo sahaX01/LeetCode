@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sahaX01/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/sahaX01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sahaX01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sahaX01/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahaX01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahaX01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahaX01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahaX01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahaX01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahaX01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahaX01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -459,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sahaX01/LeetCode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
