@@ -30,13 +30,8 @@ class Solution {
 
                 minLen = Math.min(minLen, len);
             }
-            // Store the shortest valid subarray
-            // found up to index r
-            if (r > 0) {
-                best[r] = best[r - 1];
-            }
-
-            best[r] = Math.min(best[r], minLen);
+           
+            best[r] = minLen;
             r++;
         }
          return ans == INF ? -1 : ans;
