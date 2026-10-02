@@ -1,33 +1,19 @@
 class Solution {
     List<String> result = new ArrayList<>();
-    public boolean isValid(StringBuilder sb){
-        int count = 0;
-        for(int i=0; i<sb.length(); i++){
-              char ch = sb.charAt(i);
-              if(ch == '(') count ++;
-              else count --;
-
-              if(count < 0) return false;
-            
-        }
-        return count == 0;
-    }
-    public void solve(StringBuilder sb, int n){
-        if(sb.length() == 2 * n){
-            if(isValid(sb)){
-                result.add(sb.toString());
-            }
+    public void solve(String s, int open, int close, int n, List<String> result){
+        if(s.length() == 2*n){
+            result.add(s);
             return;
         }
-        sb.append('(');
-        solve(sb, n);
-        sb.deleteCharAt(sb.length()-1);
-        sb.append(')');
-        solve(sb, n);
-        sb.deleteCharAt(sb.length()-1);
+        if(open < n){
+            solve(s+'(', open+1, close, n, result);
+        }
+        if(close < open){
+            solve(s+')', open, close+1, n, result);
+        }
     }
     public List<String> generateParenthesis(int n) {
-        solve(new StringBuilder(), n);
+        solve("", 0, 0, n, result);
         return result;
     }
 }
