@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sahaX01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahaX01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -264,12 +265,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sahaX01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/sahaX01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahaX01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahaX01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -448,10 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahaX01/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahaX01/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Simulation
 |  |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahaX01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahaX01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -577,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahaX01/LeetCode/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
