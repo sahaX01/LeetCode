@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahaX01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/sahaX01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahaX01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1096-brace-expansion-ii](https://github.com/sahaX01/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahaX01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahaX01/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahaX01/LeetCode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
