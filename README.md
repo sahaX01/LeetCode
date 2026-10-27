@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahaX01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sahaX01/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaX01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sahaX01/LeetCode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/sahaX01/LeetCode/tree/master/1109-corporate-flight-bookings) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahaX01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahaX01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahaX01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sahaX01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/sahaX01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahaX01/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/sahaX01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahaX01/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahaX01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
