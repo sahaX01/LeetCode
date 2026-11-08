@@ -1,6 +1,5 @@
 class Solution {
      List<List<Integer>> list = new ArrayList<>();
-     List<Integer> comb = new ArrayList<>();
 
     public void solve(int candidates[], int i, int target, ArrayList<Integer> temp){
         
