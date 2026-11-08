@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/sahaX01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahaX01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sahaX01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sahaX01/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahaX01/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/sahaX01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahaX01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahaX01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahaX01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahaX01/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1096-brace-expansion-ii](https://github.com/sahaX01/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/sahaX01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahaX01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/sahaX01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahaX01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahaX01/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahaX01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -593,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahaX01/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/sahaX01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahaX01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahaX01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
