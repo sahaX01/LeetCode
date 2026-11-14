@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/sahaX01/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sahaX01/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sahaX01/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sahaX01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sahaX01/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/sahaX01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahaX01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sahaX01/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahaX01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahaX01/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahaX01/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sahaX01/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahaX01/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
