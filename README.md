@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sahaX01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sahaX01/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/sahaX01/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/sahaX01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sahaX01/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahaX01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/sahaX01/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sahaX01/LeetCode/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/sahaX01/LeetCode/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahaX01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahaX01/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sahaX01/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahaX01/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sahaX01/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sahaX01/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sahaX01/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahaX01/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
