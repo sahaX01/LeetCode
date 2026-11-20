@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahaX01/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahaX01/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahaX01/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahaX01/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahaX01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahaX01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahaX01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sahaX01/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahaX01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahaX01/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahaX01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sahaX01/LeetCode/tree/master/0051-n-queens) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/sahaX01/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahaX01/LeetCode/tree/master/0835-image-overlap) |
@@ -741,5 +745,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sahaX01/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sahaX01/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
