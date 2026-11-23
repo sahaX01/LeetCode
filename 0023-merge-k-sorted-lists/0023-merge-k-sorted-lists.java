@@ -12,11 +12,12 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-        if (lists.length == 0)
+        if (lists.length == 0) {
             return null;
-
+        }
         for (int i = 0; i < lists.length; i++) {
             ListNode curr = lists[i];
+
             while (curr != null) {
                 pq.add(curr.val);
                 curr = curr.next;
@@ -25,9 +26,11 @@ class Solution {
 
         ListNode dummy = new ListNode(-1);
         ListNode curr = dummy;
+
         while (!pq.isEmpty()) {
-            ListNode node = new ListNode(pq.poll());
-            curr.next = node;
+            int val = pq.poll();
+
+            curr.next = new ListNode(val);
             curr = curr.next;
         }
 
