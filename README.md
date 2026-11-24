@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sahaX01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sahaX01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/sahaX01/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sahaX01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sahaX01/LeetCode/tree/master/0204-count-primes) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahaX01/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sahaX01/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sahaX01/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sahaX01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
