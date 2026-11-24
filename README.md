@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahaX01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/sahaX01/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sahaX01/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sahaX01/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sahaX01/LeetCode/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahaX01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahaX01/LeetCode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sahaX01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahaX01/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sahaX01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sahaX01/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahaX01/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sahaX01/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sahaX01/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sahaX01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/sahaX01/LeetCode/tree/master/0486-predict-the-winner) |
