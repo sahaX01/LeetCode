@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahaX01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahaX01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahaX01/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sahaX01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2678-number-of-senior-citizens](https://github.com/sahaX01/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2747-count-zero-request-servers](https://github.com/sahaX01/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahaX01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahaX01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/sahaX01/LeetCode/tree/master/1872-stone-game-viii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahaX01/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sahaX01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahaX01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sahaX01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sahaX01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahaX01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahaX01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sahaX01/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahaX01/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahaX01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sahaX01/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahaX01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sahaX01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sahaX01/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahaX01/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sahaX01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/sahaX01/LeetCode/tree/master/1882-process-tasks-using-servers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahaX01/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sahaX01/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sahaX01/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahaX01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahaX01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahaX01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sahaX01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahaX01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
