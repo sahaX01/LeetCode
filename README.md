@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sahaX01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sahaX01/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/sahaX01/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sahaX01/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sahaX01/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sahaX01/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahaX01/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahaX01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahaX01/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/sahaX01/LeetCode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/sahaX01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/sahaX01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahaX01/LeetCode/tree/master/0131-palindrome-partitioning) |
