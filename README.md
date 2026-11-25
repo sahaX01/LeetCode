@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sahaX01/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sahaX01/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sahaX01/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahaX01/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sahaX01/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahaX01/LeetCode/tree/master/0079-word-search) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahaX01/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sahaX01/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sahaX01/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sahaX01/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sahaX01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahaX01/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahaX01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -832,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahaX01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sahaX01/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
