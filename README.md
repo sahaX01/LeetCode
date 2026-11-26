@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahaX01/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sahaX01/LeetCode/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/sahaX01/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sahaX01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sahaX01/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahaX01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahaX01/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahaX01/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahaX01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahaX01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/sahaX01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sahaX01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sahaX01/LeetCode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahaX01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
