@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahaX01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahaX01/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahaX01/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3330-find-the-original-typed-string-i](https://github.com/sahaX01/LeetCode/tree/master/3330-find-the-original-typed-string-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sahaX01/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahaX01/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sahaX01/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
