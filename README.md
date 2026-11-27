@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahaX01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/sahaX01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahaX01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/sahaX01/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sahaX01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahaX01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sahaX01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/sahaX01/LeetCode/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/sahaX01/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahaX01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahaX01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahaX01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sahaX01/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sahaX01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/sahaX01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahaX01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sahaX01/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahaX01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahaX01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sahaX01/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/sahaX01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/sahaX01/LeetCode/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahaX01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sahaX01/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/sahaX01/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahaX01/LeetCode/tree/master/1510-stone-game-iv) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sahaX01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sahaX01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahaX01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahaX01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahaX01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahaX01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahaX01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
