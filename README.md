@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sahaX01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahaX01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahaX01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/sahaX01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahaX01/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahaX01/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sahaX01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahaX01/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahaX01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahaX01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/sahaX01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahaX01/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sahaX01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sahaX01/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sahaX01/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/sahaX01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahaX01/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
